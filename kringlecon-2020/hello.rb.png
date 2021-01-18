@@ -1,0 +1,3 @@
+puts "Hello World"
+
+File.write('test.txt', 'Some glorious content')

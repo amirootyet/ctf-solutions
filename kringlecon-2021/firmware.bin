@@ -1,0 +1,2 @@
+#!/bin/bash
+grep xlsx /var/spool/printer.log > /app/lib/public/incoming/pwned
